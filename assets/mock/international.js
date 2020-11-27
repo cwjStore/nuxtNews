@@ -1,4 +1,4 @@
-export default list = [
+export default [
     {
         "uniquekey": "30c0cef93831378b4b6a05d71961b69a",
         "title": "泰国疫情缓解 10月入境泰国国际游客艰难恢复",

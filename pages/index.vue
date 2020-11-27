@@ -7,6 +7,7 @@
 <script>
 import card from "@/components/card/index.vue";
 import { mapState } from "vuex";
+// import list from "../assets/mock/homePage"
 export default {
   components: {
     card,

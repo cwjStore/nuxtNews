@@ -1,4 +1,4 @@
-export default list = [
+export default [
     {
         "uniquekey": "e4fbd564396461f8feee621ced3ee208",
         "title": "德媒怒喷FIFA：年度最佳候选名单没基米希简直离谱",

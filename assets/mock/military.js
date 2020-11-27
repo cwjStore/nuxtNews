@@ -1,4 +1,4 @@
-export default list = [{
+export default [{
     uniquekey: "adae43e7ead813ef984df0cce3fd601a",
     title: "还说印度“不差钱”？连美军淘汰的无人机都买不起，只能先租一年",
     date: "2020-11-26 16:36",

@@ -1,4 +1,4 @@
-export default list = [{
+export default [{
     "uniquekey": "3cb1c9af47dc07f5a6a20aa9e650d008",
     "title": "《我们恋爱吧2》成最火网综，婚恋话题成为当下热点",
     "date": "2020-11-26 17:52",

@@ -1,4 +1,4 @@
-export default list = [{
+export default [{
     "uniquekey": "8c48c01ddb8e13c2494843ba71565fdf",
     "title": "内蒙古满洲里累计核酸检测20余万人 10人呈阳性",
     "date": "2020-11-26 17:47",

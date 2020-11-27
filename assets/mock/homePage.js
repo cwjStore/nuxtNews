@@ -1,4 +1,4 @@
-export default list = [{
+export default [{
     "uniquekey": "f4ce0d0e398c07364a8a2cfe03740d9f",
     "title": "国乒11人拿到八强席位！2人不幸出局，世界冠军淘汰王楚钦劲敌",
     "date": "2020-11-26 17:27",

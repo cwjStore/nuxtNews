@@ -4,7 +4,7 @@
       <div class="title">新闻头条</div>
       <div class="subtitle">https://nuxt.cwjbjy.online</div>
     </div>
-    <div class="search">
+    <!-- <div class="search">
       <el-input
         placeholder="请输入内容"
         prefix-icon="el-icon-search"
@@ -12,7 +12,7 @@
       >
         <el-button slot="append">搜索</el-button>
       </el-input>
-    </div>
+    </div> -->
   </div>
 </template>
 
